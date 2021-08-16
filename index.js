@@ -19,3 +19,7 @@ conn.query(sql_query,(error,results,fields)=>{
     }
 
 })
+
+// this way u can connect with db in node js .
+// hit like, subscribe and share.
+// thanks for watching... enjoy
